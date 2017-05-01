@@ -1,0 +1,53 @@
+#header {
+	text-align: right;
+}
+
+#header li {
+	display: inline;
+	margin: 9px;
+}
+
+#header a {
+	text-decoration: none;
+	color: #5b5b5b;
+}
+
+#logo {
+	text-align: center;
+	margin-top: 175px;
+	margin-bottom: 20px;
+}
+
+#input {
+	text-align: center;
+}
+
+#search {
+	height: 35px;
+	width: 450px;
+	border: 1px solid #f4f4f4;
+	border-radius: 1px;
+	box-shadow: 0 2px 2px rgb(203, 203, 203);
+	background-image: url("images/Google_microphone_logo.png");
+	background-size: 14px;
+	background-position: right 15px center;
+	background-repeat: no-repeat;
+}
+
+#buttons {
+	padding: 10px;
+	margin-top: 10px;
+}
+
+#btnSearch, #btnLucky {
+	padding: 10px;
+
+}
+
+#btnSignIn {
+	padding: 8px;
+	color: white;
+	background-color: #4285f4;
+	border: none;
+	border-radius: 2px;
+}
