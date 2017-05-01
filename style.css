@@ -37,11 +37,20 @@
 #buttons {
 	padding: 10px;
 	margin-top: 10px;
+
 }
 
 #btnSearch, #btnLucky {
 	padding: 10px;
+	border: 1px solid rgba(255,255,255,0);
+	color: #757575;
+	background-color: #f4f4f4;
+	font-weight: bold;
+}
 
+#btnSearch:hover, #btnLucky:hover {
+	border: 1px solid #c6c6c6;
+	background-color: #f8f8f8;
 }
 
 #btnSignIn {
@@ -50,4 +59,6 @@
 	background-color: #4285f4;
 	border: none;
 	border-radius: 2px;
+	font-weight: bold;
 }
+
