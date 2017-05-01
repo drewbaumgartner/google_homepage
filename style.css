@@ -34,6 +34,10 @@
 	background-repeat: no-repeat;
 }
 
+#search:hover {
+	box-shadow: 0 4px 4px rgb(203, 203, 203);
+}
+
 #buttons {
 	padding: 10px;
 	margin-top: 10px;
